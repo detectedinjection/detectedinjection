@@ -1,6 +1,6 @@
 - � Hi, I’m @detectedinjection
 - � I’m interested in ... reverse engineering, cpu architectures, cheat development,anticheats, and malware
-- � I’m currently learning ... C
+- � I’m currently learning ... The meaning of existence
 - � I’m looking to collaborate on ... Nothing at the moment 
 - � How to reach me ... detectedinjection@protonmail.com
 
